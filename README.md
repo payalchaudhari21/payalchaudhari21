@@ -1,3 +1,22 @@
+## 👩‍💻 About Me
+
+I’m Payal — a B.Tech student who prefers building over just learning.
+
+Most of my time goes into understanding how things actually work behind the scenes and then turning that understanding into real projects. I’m not just interested in writing code — I care about solving problems in a way that is clean, efficient, and useful.
+
+I enjoy working across the stack, from designing simple interfaces to handling logic and data on the backend. Along the way, I focus on improving my thinking, not just my syntax.
+
+- 💻 Tech: C++, Python, JavaScript, MongoDB  
+- 🧠 Currently working on: Data Structures & Backend Development  
+- ⚙️ Approach: Break → Understand → Build → Improve  
+- 🚀 Goal: To build products that are not just functional, but meaningful  
+
+I’m someone who keeps learning, keeps building, and doesn’t settle for average work.
+
+
+
+
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/payal-chaudhari2128) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:payalchaudhari378@gmail.com) 
